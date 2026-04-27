@@ -38,7 +38,8 @@ To provide immediate technical context without needing MATLAB, key model archite
 
 ### **Results & Waveform Analysis**
 ![Waveform Graph](Visuals/1.jpeg)
-![Waveform Graph](Visuals/7.jpeg)
+![Waveform Graph](Visuals/4.jpeg)
+![Waveform Graph](Visuals/10.jpeg)
 
 *Figure: Comparative RMS analysis of voltage sags during simulated fault events.*
 
