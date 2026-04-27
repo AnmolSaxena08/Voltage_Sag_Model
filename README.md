@@ -32,11 +32,11 @@ $$V_{pcc} = V_s \times \frac{Z_f}{Z_s + Z_f}$$
 To provide immediate technical context without needing MATLAB, key model architectures and waveforms are included below:
 
 ### **System Architecture**
-![Simulink Model](visuals/simulink_model.png)
+![Simulink Model](Visuals/Main_Model.jpeg)
 *Figure: Complete Simulink block diagram for the 11 kV feeder line fault model.*
 
 ### **Results & Waveform Analysis**
-![Waveform Graph](visuals/rms_analysis.png)
+![Waveform Graph](Visuals)
 *Figure: Comparative RMS analysis of voltage sags during simulated fault events.*
 
 ## 6. Repository Structure
