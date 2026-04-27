@@ -14,8 +14,9 @@ The study utilizes a theoretical **voltage divider model** to analyze sag propag
 This work is based on academic research conducted at **Galgotias College of Engineering and Technology**.
 * **Research Paper:** "Voltage Sag Characteristics in Power Distribution Systems under Fault Conditions"
 * **Institution:** Department of Electronics & Communication Engineering
-* **Full Text:** [Link to PDF in /publication folder]
+* **Full Text:** [Publication/research paper voltage sag.pdf]
 * **Certification:** Official recognition of publication from the institution
+* **Links:** [View on Publisher Site](https://www.routledge.com/Engineering-Science-and-Technology-Innovations-for-the-Future/SR-Gowda-Rammohan-PrabuSankar-Jayalatha/p/book/9781041166801)
 
 ## 3. Technical Specifications
 * **Software:** MATLAB, Simulink, Simscape Electrical
