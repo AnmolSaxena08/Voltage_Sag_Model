@@ -37,7 +37,8 @@ To provide immediate technical context without needing MATLAB, key model archite
 *Figure: Complete Simulink block diagram for the 11 kV feeder line fault model.*
 
 ### **Results & Waveform Analysis**
-![Waveform Graph](Visuals)
+![Waveform Graph](Visuals/1.jpeg)(Visuals/7.jpeg)(Visuals/9.jpeg)
+
 *Figure: Comparative RMS analysis of voltage sags during simulated fault events.*
 
 ## 6. Repository Structure
