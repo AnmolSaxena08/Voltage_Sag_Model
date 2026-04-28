@@ -43,6 +43,18 @@ To provide immediate technical context without needing MATLAB, key model archite
 
 *Figure: Comparative RMS analysis of voltage sags during simulated fault events.*
 
+## 🛠️ Skills Demonstrated
+
+- MATLAB Simulink / Simscape Modeling & Simulation
+- Power Distribution System Design & Analysis
+- Voltage Sag Detection & Characterization under Fault Conditions
+- Dynamic Voltage Restorer (DVR) Design & Implementation
+- Power Quality Improvement & Voltage Stability Analysis
+- Fault Condition Modeling (Single Line-to-Ground, Three-Phase Faults)
+- Waveform Analysis & Scope-based Result Interpretation
+- Control System Integration for Real-Time Compensation
+- Technical Documentation & Research Publication
+
 ## 6. Repository Structure
 To maintain industrial documentation standards, this repository is organized as follows:
 * **/model**: Contains the `.slx` MATLAB Simulink model file.
