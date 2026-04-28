@@ -3,7 +3,7 @@ This project offers a comprehensive analysis of voltage sag characterization and
 
 
 # Voltage Sag Characteristics & Mitigation in Power Distribution Systems
-> **Authors:** Mr. Anmol Saxena, Dr. Richa, Dr. Rahul Vivek Purohit
+> **Authors:** Mr. Anmol Saxena
 
 ## 1. Project Overview
 This project provides a comprehensive analysis of **Voltage Sag Characterization (VSC)** and mitigation in power distribution networks using **MATLAB and Simulink**. By simulating various symmetrical and asymmetrical fault scenarios, the research identifies critical parameters such as sag magnitude, duration, and phase-angle jumps that impact the stability of sensitive industrial equipment. 
