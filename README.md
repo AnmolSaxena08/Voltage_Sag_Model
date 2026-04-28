@@ -1,6 +1,3 @@
-# Voltage_Sag_Model
-This project offers a comprehensive analysis of voltage sag characterization and mitigation in power distribution networks using MATLAB and Simulink. By simulating various symmetrical and asymmetrical fault scenarios, the research identifies critical parameters such as sag magnitude, duration, and phase-angle jumps that impact the stability of sensitive industrial equipment. The study utilizes a theoretical voltage divider model to analyze sag propagation through transformer windings and evaluates the performance of a Dynamic Voltage Restorer as an effective solution for maintaining a stable voltage supply. Authored by Anmol Saxena at Galgotias College of Engineering and Technology, this work bridges the gap between theoretical power quality research and practical industrial simulation.
-
 
 # Voltage Sag Characteristics & Mitigation in Power Distribution Systems
 > **Authors:** Mr. Anmol Saxena
